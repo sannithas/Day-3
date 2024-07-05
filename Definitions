@@ -1,0 +1,6 @@
+What is an Error in Java?
+  An Error in Java is an issue that an application generally cannot recover from. An example of this is 'OutOfMemoryError'.
+What is an Exception in Java?
+  An Exception is a condition that the application can catch and handle to maintain a normal flow. An example is 'IOException'
+Difference between an Error and Exception?
+  An Error is an issue thats beyind the applications control and unrecoverable and the Exception represents conditions that the application can change.
